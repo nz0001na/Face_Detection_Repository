@@ -3,7 +3,8 @@ Some face detection algorithms.
 Keep updating
 
 
-* 2017	[CVPR]	Finding Tiny Faces [[code]](https://github.com/peiyunh/tiny) ; MatConvNet [[code]](https://github.com/peiyunh/matconvnet/tree/9822ec97f35cf5a56ae22707cc1c04e0d738e7db     http://www.vlfeat.org/matconvnet/install/)
+* 2017	[CVPR]	Finding Tiny Faces [[code]](https://github.com/peiyunh/tiny) ;
+* MatConvNet [[code]](https://github.com/peiyunh/matconvnet/tree/9822ec97f35cf5a56ae22707cc1c04e0d738e7db), [[code2]](http://www.vlfeat.org/matconvnet/install/)
 * 2014	[IJCB]	Aggregate channel features for multi-view face detection [[code]](https://github.com/apennisi/fast_face_detector)
 * 2015	[TPAMI]	A Fast and Accurate Unconstrained Face Detector	[[code]](http://www.cbsr.ia.ac.cn/users/scliao/projects/npdface/index.html),
 			[[code2]](https://github.com/dannyblueliu/YOLO-version-2-Face-detection)
